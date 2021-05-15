@@ -46,3 +46,5 @@ After completion, the program reports the following statistics for both phase 1 
 2. TLB hit rate: the percentage of address references that were resolved in the TLB.
 
 ### Usage
+
+./mmu [128/256] BACKING_STORE.bin addresses.txt
